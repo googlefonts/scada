@@ -35123,6 +35123,7 @@ name = Regular;
 instanceInterpolations = {
 "6710F4E3-34F6-4C2D-8CE3-6A261897B433" = 1;
 };
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }
