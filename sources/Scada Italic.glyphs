@@ -25586,6 +25586,121 @@ width = 361;
 unicode = 00B3;
 },
 {
+glyphname = foursuperior;
+lastChange = "2016-09-19 21:39:27 +0000";
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"334 360 LINE",
+"346 430 LINE",
+"396 430 LINE",
+"406 490 LINE",
+"356 490 LINE",
+"393 700 LINE",
+"303 700 LINE",
+"96 490 LINE",
+"86 430 LINE",
+"256 430 LINE",
+"244 360 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"265 580 LINE",
+"270 585 OFFCURVE",
+"278 597 OFFCURVE",
+"283 606 CURVE SMOOTH",
+"292 623 LINE",
+"296 623 LINE",
+"290 607 LINE SMOOTH",
+"287 598 OFFCURVE",
+"283 587 OFFCURVE",
+"282 580 CURVE SMOOTH",
+"266 490 LINE",
+"176 490 LINE"
+);
+}
+);
+width = 380;
+},
+{
+layerId = "EFCBAD9B-4238-4620-A1C0-521E4552FF66";
+paths = (
+{
+closed = 1;
+nodes = (
+"349 360 LINE",
+"359 420 LINE",
+"404 420 LINE",
+"418 500 LINE",
+"373 500 LINE",
+"408 700 LINE",
+"293 700 LINE",
+"88 500 LINE",
+"74 420 LINE",
+"239 420 LINE",
+"229 360 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"249 564 LINE",
+"256 569 OFFCURVE",
+"260 577 OFFCURVE",
+"264 584 CURVE",
+"267 587 OFFCURVE",
+"269 591 OFFCURVE",
+"271 595 CURVE",
+"275 595 LINE",
+"270 584 LINE SMOOTH",
+"267 577 OFFCURVE",
+"265 570 OFFCURVE",
+"265 565 CURVE",
+"253 500 LINE",
+"183 500 LINE"
+);
+}
+);
+width = 390;
+}
+);
+leftMetricsKey = onequarter;
+rightMetricsKey = onequarter;
+unicode = 2074;
+},
+{
+glyphname = fraction;
+layers = (
+{
+components = (
+{
+name = slash;
+}
+);
+layerId = UUID0;
+width = 410;
+},
+{
+components = (
+{
+name = slash;
+}
+);
+layerId = "EFCBAD9B-4238-4620-A1C0-521E4552FF66";
+width = 450;
+}
+);
+leftMetricsKey = slash;
+rightMetricsKey = slash;
+unicode = 2044;
+},
+{
 glyphname = onehalf;
 lastChange = "2016-09-19 21:26:57 +0000";
 layers = (
@@ -28742,6 +28857,21 @@ width = 300;
 unicode = 0020;
 },
 {
+glyphname = nbspace;
+layers = (
+{
+layerId = UUID0;
+width = 290;
+},
+{
+layerId = "EFCBAD9B-4238-4620-A1C0-521E4552FF66";
+width = 300;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
+},
+{
 glyphname = .notdef;
 lastChange = "2016-09-19 18:59:43 +0000";
 layers = (
@@ -30061,6 +30191,30 @@ width = 570;
 }
 );
 unicode = 00A5;
+},
+{
+glyphname = divisionslash;
+layers = (
+{
+components = (
+{
+name = slash;
+}
+);
+layerId = UUID0;
+width = 410;
+},
+{
+components = (
+{
+name = slash;
+}
+);
+layerId = "EFCBAD9B-4238-4620-A1C0-521E4552FF66";
+width = 450;
+}
+);
+unicode = 2215;
 },
 {
 glyphname = plus;
