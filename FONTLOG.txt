@@ -31,13 +31,13 @@ ChangeLog
 — Expanded glyph set to GF Cyrillic Plus
 — Ported source files to Glyphs
 — fixed vertical metrics
+— added glyphs fraction, divisionslash, foursuperior, nbspace
 
-30 July 2012 (Scada) version 3.005
-— Initial release on Google Fonts
+1 August 2012 (Jovanny Lemonad) 3.005
+— First release on Google Fonts
 
-2005 (Scada) version 1.000
+2005 (Scada Design Studio) version 1.000
 — Initial release
-
 
 Acknowledgements
 
