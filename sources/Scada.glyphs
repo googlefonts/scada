@@ -10,6 +10,10 @@ name = Uppercase;
 copyright = "Copyright (c) 2005-2012 by Jovanny Lemonad. All rights reserved.";
 customParameters = (
 {
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
@@ -20,10 +24,6 @@ value = "Copyright (c) 2005-2012 by Jovanny Lemonad. All rights reserved.";
 {
 name = trademark;
 value = "Scada is a trademark of Jovanny Lemonad.";
-},
-{
-name = license;
-value = "Copyright (c) August 1, 2012, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name \"Scada\" and \"Scada One\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = fsType;
@@ -94,6 +94,40 @@ alignmentZones = (
 );
 ascender = 920;
 capHeight = 700;
+customParameters = (
+{
+name = typoAscender;
+value = 955;
+},
+{
+name = typoDescender;
+value = -289;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 955;
+},
+{
+name = winDescent;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 955;
+},
+{
+name = hheaDescender;
+value = -289;
+}
+);
 descender = -210;
 id = UUID0;
 weightValue = 0;
@@ -109,6 +143,40 @@ alignmentZones = (
 );
 ascender = 920;
 capHeight = 700;
+customParameters = (
+{
+name = typoAscender;
+value = 955;
+},
+{
+name = typoDescender;
+value = -289;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 955;
+},
+{
+name = winDescent;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 955;
+},
+{
+name = hheaDescender;
+value = -289;
+}
+);
 descender = -210;
 id = "6710F4E3-34F6-4C2D-8CE3-6A261897B433";
 weight = Bold;
@@ -35123,6 +35191,7 @@ name = Regular;
 instanceInterpolations = {
 "6710F4E3-34F6-4C2D-8CE3-6A261897B433" = 1;
 };
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }

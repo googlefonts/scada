@@ -94,6 +94,40 @@ alignmentZones = (
 );
 ascender = 920;
 capHeight = 700;
+customParameters = (
+{
+name = typoAscender;
+value = 955;
+},
+{
+name = typoDescender;
+value = -289;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 955;
+},
+{
+name = winDescent;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 955;
+},
+{
+name = hheaDescender;
+value = -289;
+}
+);
 descender = -210;
 id = UUID0;
 italicAngle = 10;
@@ -110,6 +144,40 @@ alignmentZones = (
 );
 ascender = 920;
 capHeight = 700;
+customParameters = (
+{
+name = typoAscender;
+value = 955;
+},
+{
+name = typoDescender;
+value = -289;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 955;
+},
+{
+name = winDescent;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 955;
+},
+{
+name = hheaDescender;
+value = -289;
+}
+);
 descender = -210;
 id = "EFCBAD9B-4238-4620-A1C0-521E4552FF66";
 italicAngle = 10;
@@ -34859,7 +34927,7 @@ interpolationWeight = 0;
 instanceInterpolations = {
 UUID0 = 1;
 };
-name = Regular;
+name = Italic;
 },
 {
 instanceInterpolations = {
@@ -34867,7 +34935,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-name = Bold;
+name = "Bold Italic";
 weightClass = Bold;
 }
 );
