@@ -1,8 +1,5 @@
 {
-.appVersion = "919";
-DisplayStrings = (
-"/fraction \U00BD"
-);
+.appVersion = "926";
 classes = (
 {
 automatic = 1;

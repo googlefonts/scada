@@ -9,5 +9,7 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Jovanny Lemonad <lemonad@jovanny.ru>
 
+Jovanny Lemonad <lemonad@jovanny.ru>
+Nhung Nguyen <vns.wonderland@gmail.com>
+GF Raisins Team 
