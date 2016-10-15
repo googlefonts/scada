@@ -37,6 +37,10 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = vendorID;
+value = PYRS;
 }
 );
 date = "2016-09-19 20:34:36 +0000";
@@ -152,6 +156,18 @@ ascender = 920;
 capHeight = 700;
 customParameters = (
 {
+name = hheaAscender;
+value = 955;
+},
+{
+name = hheaDescender;
+value = -289;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
 value = 955;
 },
@@ -164,24 +180,12 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = hheaLineGap;
-value = 0;
-},
-{
 name = winAscent;
 value = 955;
 },
 {
 name = winDescent;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 955;
-},
-{
-name = hheaDescender;
-value = -289;
+value = 289;
 }
 );
 descender = -210;
@@ -214,6 +218,18 @@ ascender = 920;
 capHeight = 700;
 customParameters = (
 {
+name = hheaAscender;
+value = 955;
+},
+{
+name = hheaDescender;
+value = -289;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
 value = 955;
 },
@@ -226,24 +242,12 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = hheaLineGap;
-value = 0;
-},
-{
 name = winAscent;
 value = 955;
 },
 {
 name = winDescent;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 955;
-},
-{
-name = hheaDescender;
-value = -289;
+value = 289;
 }
 );
 descender = -210;
@@ -34674,7 +34678,6 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 isItalic = 1;
-linkStyle = Regular;
 name = Italic;
 },
 {
@@ -34683,7 +34686,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 }

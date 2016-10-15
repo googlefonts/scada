@@ -37,6 +37,10 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = vendorID;
+value = PYRS;
 }
 );
 date = "2016-09-19 18:41:27 +0000";
@@ -173,7 +177,7 @@ value = 955;
 },
 {
 name = winDescent;
-value = 0;
+value = 289;
 },
 {
 name = hheaAscender;
@@ -216,6 +220,18 @@ ascender = 920;
 capHeight = 700;
 customParameters = (
 {
+name = hheaAscender;
+value = 955;
+},
+{
+name = hheaDescender;
+value = -289;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
 value = 955;
 },
@@ -228,24 +244,12 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = hheaLineGap;
-value = 0;
-},
-{
 name = winAscent;
 value = 955;
 },
 {
 name = winDescent;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 955;
-},
-{
-name = hheaDescender;
-value = -289;
+value = 289;
 }
 );
 descender = -210;
@@ -25514,6 +25518,22 @@ paths = (
 {
 closed = 1;
 nodes = (
+"295 360 LINE",
+"295 430 LINE",
+"345 430 LINE",
+"345 490 LINE",
+"295 490 LINE",
+"295 700 LINE",
+"205 700 LINE",
+"35 490 LINE",
+"35 430 LINE",
+"205 430 LINE",
+"205 360 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "188 580 LINE",
 "192 585 OFFCURVE",
 "197 597 OFFCURVE",
@@ -25529,22 +25549,6 @@ nodes = (
 "205 490 LINE",
 "115 490 LINE"
 );
-},
-{
-closed = 1;
-nodes = (
-"295 360 LINE",
-"295 430 LINE",
-"345 430 LINE",
-"345 490 LINE",
-"295 490 LINE",
-"295 700 LINE",
-"205 700 LINE",
-"35 490 LINE",
-"35 430 LINE",
-"205 430 LINE",
-"205 360 LINE"
-);
 }
 );
 width = 380;
@@ -25552,6 +25556,22 @@ width = 380;
 {
 layerId = "6710F4E3-34F6-4C2D-8CE3-6A261897B433";
 paths = (
+{
+closed = 1;
+nodes = (
+"310 360 LINE",
+"310 420 LINE",
+"355 420 LINE",
+"355 500 LINE",
+"310 500 LINE",
+"310 700 LINE",
+"195 700 LINE",
+"25 500 LINE",
+"25 420 LINE",
+"190 420 LINE",
+"190 360 LINE"
+);
+},
 {
 closed = 1;
 nodes = (
@@ -25569,22 +25589,6 @@ nodes = (
 "190 565 CURVE SMOOTH",
 "190 500 LINE",
 "120 500 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"310 360 LINE",
-"310 420 LINE",
-"355 420 LINE",
-"355 500 LINE",
-"310 500 LINE",
-"310 700 LINE",
-"195 700 LINE",
-"25 500 LINE",
-"25 420 LINE",
-"190 420 LINE",
-"190 360 LINE"
 );
 }
 );
