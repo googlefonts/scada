@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "948";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2005-2012 by Jovanny Lemonad. All rights reserved.";
+copyright = "Copyright 2012 The Scada Project Authors (lemonad@jovanny.ru)";
 customParameters = (
 {
 name = trademark;
