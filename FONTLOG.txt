@@ -49,3 +49,8 @@ N: Jovanny Lemonad
 E: lemonad@jovanny.ru
 W: http://www.jovanny.ru
 D: Original Type Designer
+
+N: Stefan Peev
+E: context.bg@gmail.com
+W: http://www.contextbg.net
+D: Contributor
