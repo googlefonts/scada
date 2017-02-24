@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni051D" format="1">
+  <advance width="710"/>
+  <unicode hex="051D"/>
+  <outline>
+    <contour>
+      <point x="145" y="0" type="line"/>
+      <point x="15" y="500" type="line"/>
+      <point x="110" y="500" type="line"/>
+      <point x="190" y="195" type="line" smooth="yes"/>
+      <point x="194" y="180"/>
+      <point x="195" y="163"/>
+      <point x="198" y="151" type="curve" smooth="yes"/>
+      <point x="200" y="130" type="line"/>
+      <point x="204" y="130" type="line"/>
+      <point x="204" y="137"/>
+      <point x="205" y="144"/>
+      <point x="206" y="151" type="curve" smooth="yes"/>
+      <point x="209" y="163"/>
+      <point x="211" y="180"/>
+      <point x="215" y="195" type="curve" smooth="yes"/>
+      <point x="297" y="500" type="line"/>
+      <point x="397" y="500" type="line"/>
+      <point x="475" y="195" type="line" smooth="yes"/>
+      <point x="479" y="180"/>
+      <point x="480" y="163"/>
+      <point x="483" y="151" type="curve" smooth="yes"/>
+      <point x="486" y="130" type="line"/>
+      <point x="490" y="130" type="line"/>
+      <point x="490" y="137"/>
+      <point x="491" y="144"/>
+      <point x="492" y="151" type="curve" smooth="yes"/>
+      <point x="494" y="164"/>
+      <point x="496" y="179"/>
+      <point x="500" y="195" type="curve" smooth="yes"/>
+      <point x="580" y="500" type="line"/>
+      <point x="675" y="500" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="360" y="315" type="line" smooth="yes"/>
+      <point x="356" y="327"/>
+      <point x="353" y="344"/>
+      <point x="351" y="359" type="curve" smooth="yes"/>
+      <point x="347" y="385" type="line"/>
+      <point x="343" y="385" type="line"/>
+      <point x="339" y="359" type="line" smooth="yes"/>
+      <point x="337" y="344"/>
+      <point x="333" y="327"/>
+      <point x="330" y="315" type="curve" smooth="yes"/>
+      <point x="245" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>130</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>385</integer>
+            <key>width</key>
+            <integer>115</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>15</integer>
+            <key>width</key>
+            <integer>660</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
