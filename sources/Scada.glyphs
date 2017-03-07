@@ -1,5 +1,5 @@
 {
-.appVersion = "961";
+.appVersion = "976";
 classes = (
 {
 automatic = 1;
@@ -43,7 +43,7 @@ name = vendorID;
 value = PYRS;
 }
 );
-date = "2016-09-19 18:41:27 +0000";
+date = "2017-03-07 16:06:31 +0000";
 designer = "Jovanny Lemonad";
 designerURL = "http://jovanny.ru/";
 familyName = Scada;
@@ -46671,5 +46671,5 @@ OV = "100";
 };
 };
 versionMajor = 4;
-versionMinor = 0;
+versionMinor = 100;
 }
