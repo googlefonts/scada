@@ -1,4 +1,4 @@
-#Scada
+# Scada
 
 Open-source font by Jovanny Lemonad
 
@@ -7,11 +7,12 @@ In 2005, Scada was designed as the corporate identity font for the Latvian desig
 ### version 4.000
 
 * Expanded glyph set to GF Cyrillic Plus
-
 * Ported source files to Glyphs
-
 * Added Vietnamse support 
 
+### Examples
+
+See [images](/images/) and [Gallery](/images/gallery.md).
 
 ### Copyright
 
